@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: Documentación del examen
+
+nav:
+  - Inicio: index.md
+  - Comandos de Git: comandes.md
+  - Proceso: proces.md
